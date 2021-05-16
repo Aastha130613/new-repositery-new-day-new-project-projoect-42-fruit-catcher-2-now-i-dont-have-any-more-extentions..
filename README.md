@@ -1,1 +1,3 @@
-# new-repositery-new-day-new-project-projoect-42-fruit-catcher-2-now-i-dont-have-any-more-extentions..
+# c-39
+## Project-39 FRUIT CATCHER 1
+# By KenaRathod
